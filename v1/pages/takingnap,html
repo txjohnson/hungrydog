@@ -3,14 +3,13 @@
     <head>
         <title>????</title>
         <link rel="stylesheet" type="text/css" href="style.css"/>
-    </head>
     <body>
-        <h1>Hungry Dog</h1>
+        <h1>?????</h1>
         <div id="illustration">
-            <img src="images/small-dog-at-doggy-daycare-birmingham.jpeg"/>
+            <img src=""/>
         </div>
         <div id="description">
-            The little dog is home alone and now it's hungry. Help the dog get some food.
+            ????
         </div>
         <div id = "choices">
             <a href="">Some choice here</a>
