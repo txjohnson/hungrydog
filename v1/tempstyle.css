@@ -1,0 +1,15 @@
+@import "nes.min.css";
+
+@font-face {
+    font-family: 'PressStart 2P Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./fonts/PressStart2P-Regular.ttf') format('truetype');
+}
+
+body {
+    background-color: bisque;
+    font-family: 'PressStart 2P Regular';
+}
+
