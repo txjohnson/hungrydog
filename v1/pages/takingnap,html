@@ -3,16 +3,19 @@
     <head>
         <title>????</title>
         <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
     <body>
-        <h1>?????</h1>
+        <h1>Nap Time</h1>
         <div id="illustration">
             <img src=""/>
         </div>
         <div id="description">
-            ????
+            Playing all night has made doggy sleepy. Doggy is more sleepy than hungry so doggy takes a nap.
+
+            After some time, doggy hears the door open.
         </div>
         <div id = "choices">
-            <a href="">Some choice here</a>
+            <a href="./homefromschool.html">See who it is</a>
         </div>
         <script src="main.js"></script>
     </body>
