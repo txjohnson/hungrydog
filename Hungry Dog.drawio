@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Whu9yl_nzPbtghmXsejI" name="Page-1">
-        <mxGraphModel dx="900" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="739" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -35,7 +35,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="aDHNyGKMJam1_M0monLK-9" value="Kid home form school" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="640" y="400" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="510" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="aDHNyGKMJam1_M0monLK-10" value="Get food" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="640" y="520" width="120" height="60" as="geometry"/>
@@ -85,13 +85,13 @@
                 <mxCell id="aDHNyGKMJam1_M0monLK-20" value="left overs on counter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="160" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="aDHNyGKMJam1_M0monLK-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="aDHNyGKMJam1_M0monLK-19" target="aDHNyGKMJam1_M0monLK-13" edge="1">
+                <mxCell id="aDHNyGKMJam1_M0monLK-21" value="eat trash" style="endArrow=none;html=1;rounded=0;" parent="1" source="aDHNyGKMJam1_M0monLK-19" target="aDHNyGKMJam1_M0monLK-13" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="50" y="360" as="sourcePoint"/>
                         <mxPoint x="100" y="310" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="aDHNyGKMJam1_M0monLK-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="aDHNyGKMJam1_M0monLK-20" target="aDHNyGKMJam1_M0monLK-13" edge="1">
+                <mxCell id="aDHNyGKMJam1_M0monLK-22" value="eat counter food" style="endArrow=none;html=1;rounded=0;" parent="1" source="aDHNyGKMJam1_M0monLK-20" target="aDHNyGKMJam1_M0monLK-13" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="180" y="410" as="sourcePoint"/>
                         <mxPoint x="230" y="360" as="targetPoint"/>
@@ -100,7 +100,7 @@
                 <mxCell id="aDHNyGKMJam1_M0monLK-23" value="get sick&lt;br&gt;trip to vet when people get home" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="20" y="560" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="aDHNyGKMJam1_M0monLK-24" value="eat left trash" style="endArrow=none;html=1;rounded=0;" parent="1" source="aDHNyGKMJam1_M0monLK-23" target="aDHNyGKMJam1_M0monLK-19" edge="1">
+                <mxCell id="aDHNyGKMJam1_M0monLK-24" value="look inside" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="2" target="aDHNyGKMJam1_M0monLK-19" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="40" y="540" as="sourcePoint"/>
                         <mxPoint x="90" y="490" as="targetPoint"/>
@@ -164,6 +164,15 @@
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="600" y="740" as="sourcePoint"/>
                         <mxPoint x="650" y="690" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="there is food here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="eat" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="aDHNyGKMJam1_M0monLK-23" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="560" as="sourcePoint"/>
+                        <mxPoint x="80" y="460" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
